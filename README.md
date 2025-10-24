@@ -12,6 +12,6 @@ I will not continue this project any further for now because the future steps me
 -  Magnus Vournas, "TheHistorian411"
 
   Important supplemental notes:
-Open-source Python Libraries used: Pandas, SkLearn, & NumPy
+Open-source Python Libraries used: Pandas, SkLearn, & NumPy.
 Dataset Source: https://www.kaggle.com/datasets/gregorut/videogamesales/data
 Programmed on Jupyter Notebook
